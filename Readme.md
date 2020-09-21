@@ -81,7 +81,7 @@ MIT License
 
 ## Authors
 
-(https://about.me/victoriroka)Victor Iroka and Gilbert James (https://www.linkedin.com/in/gilbert-james-ace/)
+(https://about.me/victoriroka) Victor Iroka and Gilbert James (https://www.linkedin.com/in/gilbert-james-ace/)
 (Vicmie Inc.) 
 
 
